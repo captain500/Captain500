@@ -7,11 +7,12 @@ I am a **Data Engineer** with 6+ years of experience designing and implementing 
 
 ### 🛠️ Professional Tech Stack
 
-* **Languages & Core:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DE3423?logo=scala&logoColor=white)
-* **Data Engineering:** ![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white) ![Polars](https://img.shields.io/badge/-Polars-CD792C) ![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white) ![Prefect](https://img.shields.io/badge/-Prefect-070E10?logo=prefect&logoColor=white)
-* **Cloud & Infrastructure:** ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-* **Databases & BI:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Clickhouse](https://img.shields.io/badge/-Clickhouse-FFCC01?logo=clickhouse&logoColor=black) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)
-* **Storage:** MongoDB, Neo4j.
+* **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DE3423?logo=scala&logoColor=white)
+* **Data Processing:** ![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white) ![Polars](https://img.shields.io/badge/-Polars-CD792C) ![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white)
+* **Orchestration & CI:** ![Prefect](https://img.shields.io/badge/-Prefect-070E10?logo=prefect&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+* **Databases:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?logo=clickhouse&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?logo=neo4j&logoColor=white)
+* **Cloud & Infra:** ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+* **BI:** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)
 
 ---
 
