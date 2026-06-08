@@ -28,7 +28,7 @@ This project implements a **Medallion Architecture** (Bronze → Silver → Gold
 * **Quality:** Pydantic models for schema validation, centralised column registry with numeric range rules, and **194 unit tests** with pytest.
 * **Orchestration:** **Prefect** managing multi-partition flows with per-partition isolation and idempotent upserts.
 * **DevOps:** **Poetry** + **Ruff** + **pre-commit** for code quality, **GitHub Actions** CI pipeline, and **Makefile** for local workflow automation.
-* **Visualization:** Interactive **Power BI** dashboards.
+* **Visualization:** Interactive **Metabase** dashboards.
 
 ---
 
